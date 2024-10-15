@@ -12,7 +12,7 @@ let futureAge;
 // write your code here :
 
 
-// Exercise 2 - initalise these variables to show their type
+// Exercise 2 - Initialise the 'type' variables to show their type
 
 let firstNameType;
 let birthYearType;
